@@ -21,7 +21,7 @@
 
 ## ```Connect With Me```
 
-<a href="https://api.whatsapp.com/send?phone=212761524771&text=hello+Omar"><img src="https://img.shields.io/badge/Connect on WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+<a href="https://api.whatsapp.com/send?phone=212761524771&text=hello+driss"><img src="https://img.shields.io/badge/Connect on WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 <a href="https://instagram.com/zexx0.2"><img src="https://img.shields.io/badge/Connect on instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
 
@@ -60,12 +60,6 @@
 
 
 -----------
-dev 
-
-<a href="https://github.com/Omarcharaf"><img src="https://github.com/Omarcharaf1.png" width="200" height="200" alt="OMAR-7"/></a>
 
 -
 THANK YOU 🧚🏼‍♀️
-
-
-<a href="https://github.com/noureddineouafy"><img src="https://github.com/noureddineouafy.png" width="200" height="200" alt="NOUREDDIN"/></a>
